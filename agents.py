@@ -11,6 +11,8 @@ load_dotenv()
 llm = ChatOpenAI(model = "gpt-4o-mini",temperature=0)
 
 
+#Making the agents and chains available for import in pipeline.py
+
 #1st agent 
 def build_search_agent():
     return create_agent(
