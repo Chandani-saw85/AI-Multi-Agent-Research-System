@@ -18,6 +18,11 @@ lxml>=5.0.0
 # Environment variables
 python-dotenv>=1.0.0
 
+# Web server dependencies for connecting to the React frontend
+flask>=3.0.0
+flask-cors>=4.0.0
+mysql-connector-python>=8.4.0
+
 # Async support (important for agents/tools)
 aiohttp>=3.9.0
 
@@ -27,7 +32,7 @@ pandas>=2.0.0
 # Token counting / text utils
 tiktoken>=0.6.0
 
-# Logging / debugging (optional but recommended)
+# Logging / debugging
 rich>=13.7.0
 
 # Retry + robustness
@@ -36,8 +41,8 @@ tenacity>=8.2.0
 # JSON handling improvements
 orjson>=3.9.0
 
-# Typing support (helps in bigger projects)
+# Typing support
 pydantic>=2.5.0
 
-# Optional (for advanced parsing / HTML cleanup)
+# HTML cleanup
 html5lib>=1.1
