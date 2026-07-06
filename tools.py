@@ -35,11 +35,3 @@ def scrape_url(url: str) -> str:
     except Exception as e:
         return f"Could not scrape URL: {str(e)}"
     
-   
-
-if __name__ == "__main__":
-    result = web_search.invoke("Latest AI news")
-    print(result) 
-
-scrape_result = scrape_url.invoke("https://www.artificialintelligence-news.com/")
-print(scrape_result)
