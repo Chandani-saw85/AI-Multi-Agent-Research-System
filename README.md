@@ -1,4 +1,4 @@
-# Multi-Agent Research System
+# AI Multi-Agent Research System
 
 An AI-powered research assistant that uses multiple agents to gather information, analyze sources, and generate polished research reports.
 
@@ -37,6 +37,3 @@ An AI-powered research assistant that uses multiple agents to gather information
 - Start the frontend:
   `cd frontend` and `npm run dev`
 
-## Project Images
-- Add screenshots of the dashboard, report output, and saved research here.
-- This section can be updated with your final project images for a polished presentation.
