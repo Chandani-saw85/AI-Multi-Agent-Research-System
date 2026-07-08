@@ -19,7 +19,7 @@ An AI-powered research assistant that uses multiple agents to gather information
 ## Tech Stack
 - Python, Flask, LangChain, OpenAI
 - React and Vite for the frontend
-- SQLite for storing research history
+- MYSQL and SQL
 
 ## How It Works
 1. Enter a research topic.
