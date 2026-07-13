@@ -11,7 +11,7 @@ History and saved research tracking.
 
 Key Features:
 Search agent finds recent and relevant sources.
-Reader agent extracts deeper content from top results..........
+Reader agent extracts deeper content from top results.
 Writer agent creates a clear research report.
 Critic agent reviews the report and gives feedback.
 Frontend makes it easy to explore and save results.
