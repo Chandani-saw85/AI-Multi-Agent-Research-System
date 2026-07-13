@@ -30,6 +30,9 @@ A report is generated and reviewed for quality.
 Run Locally:
 
 Install Python dependencies: pip install -r requirements.txt
-Install frontend dependencies: cd frontend and npm install
+
+Install frontend dependencies: cd frontend and npm install 
+
 Start the backend: python app.py
+
 Start the frontend: cd frontend and npm run dev
