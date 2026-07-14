@@ -1,6 +1,8 @@
 AI Multi-Agent Research System
 An AI-powered research assistant that uses multiple agents to gather information, analyze sources, and generate polished research reports.
 
+......................................................................
+
 Highlights:
 
 Smart web search for reliable information.
@@ -36,4 +38,5 @@ Install frontend dependencies: cd frontend and npm install
 Start the backend: python app.py
 
 Start the frontend: cd frontend and npm run dev
-.................................................................
+
+..................................................
