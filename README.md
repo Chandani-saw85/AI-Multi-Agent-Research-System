@@ -36,3 +36,4 @@ Install frontend dependencies: cd frontend and npm install
 Start the backend: python app.py
 
 Start the frontend: cd frontend and npm run dev
+.................................................................
