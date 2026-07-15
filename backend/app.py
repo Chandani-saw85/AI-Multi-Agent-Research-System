@@ -134,7 +134,9 @@ def research():
         return jsonify(payload)
 
     except Exception as exc:
-        logger.exception("Research pipeline failed")
+        import traceback
+        traceback.print_exc()
+        print("ACTUAL ERROR:", repr(exc))
         return jsonify({"error": str(exc)}), 500
 
 
